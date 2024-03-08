@@ -77,7 +77,7 @@ body{
     display: flex;
     justify-content: center;
     gap: 16px;
-    width: 50%;
+    width: 60%;
     border-radius: 08px;
     text-align: center;
     padding: 21.5px 0;
@@ -103,6 +103,14 @@ body{
     font-size: 1.5rem;
     font-weight: 400;
 
+}
+.apresentacao__link__boticario{
+    text-decoration: none;
+    color: var(--cor-secundaria);
+
+}
+.apresentacao__link__boticario:hover{
+    color: var(--cor-tercearia);
 }
 @media (max-width: 1200px){
     .cabecalho{
