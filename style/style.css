@@ -69,8 +69,11 @@ body{
 }
 .apresentacao_subtitulo{
     font-family: var(--fonte-secundaria);
-    font-weight: 400;
     font-size: 1.5rem;
+}
+.apresentacao_titulo__about{
+    font-family: var(--fonte-primaria);
+    font-size: 2rem;
 }
 .apresentacao__links__navegacao{
     border: 2px solid var(--cor-tercearia);
